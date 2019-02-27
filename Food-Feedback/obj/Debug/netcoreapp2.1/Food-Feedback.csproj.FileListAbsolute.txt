@@ -9,3 +9,6 @@ C:\Users\saipriyak\source\repos\Food-Feedback\Food-Feedback\obj\Debug\netcoreapp
 C:\Users\saipriyak\source\repos\Food-Feedback\Food-Feedback\obj\Debug\netcoreapp2.1\Food-Feedback.AssemblyInfoInputs.cache
 C:\Users\saipriyak\source\repos\Food-Feedback\Food-Feedback\obj\Debug\netcoreapp2.1\Food-Feedback.AssemblyInfo.cs
 C:\Users\saipriyak\source\repos\Food-Feedback\Food-Feedback\obj\Debug\netcoreapp2.1\Food-Feedback.RazorTargetAssemblyInfo.cache
+C:\Users\saipriyak\source\repos\Food-Feedback\Food-Feedback\bin\Debug\netcoreapp2.1\Food-Feedback.pdb
+C:\Users\saipriyak\source\repos\Food-Feedback\Food-Feedback\obj\Debug\netcoreapp2.1\Food-Feedback.dll
+C:\Users\saipriyak\source\repos\Food-Feedback\Food-Feedback\obj\Debug\netcoreapp2.1\Food-Feedback.pdb

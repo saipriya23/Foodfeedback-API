@@ -1,0 +1,17 @@
+C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\bin\Debug\netcoreapp2.1\FoodFeedbackTests.deps.json
+C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\bin\Debug\netcoreapp2.1\FoodFeedbackTests.runtimeconfig.json
+C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\bin\Debug\netcoreapp2.1\FoodFeedbackTests.runtimeconfig.dev.json
+C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\bin\Debug\netcoreapp2.1\FoodFeedbackTests.dll
+C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\bin\Debug\netcoreapp2.1\FoodFeedbackTests.pdb
+C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\bin\Debug\netcoreapp2.1\Food-Feedback.dll
+C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\bin\Debug\netcoreapp2.1\Food-Feedback.pdb
+C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\obj\Debug\netcoreapp2.1\FoodFeedbackTests.csprojAssemblyReference.cache
+C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\obj\Debug\netcoreapp2.1\FoodFeedbackTests.csproj.CoreCompileInputs.cache
+C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\obj\Debug\netcoreapp2.1\FoodFeedbackTests.AssemblyInfoInputs.cache
+C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\obj\Debug\netcoreapp2.1\FoodFeedbackTests.AssemblyInfo.cs
+C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\obj\Debug\netcoreapp2.1\FoodFeedbackTests.csproj.CopyComplete
+C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\obj\Debug\netcoreapp2.1\FoodFeedbackTests.dll
+C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\obj\Debug\netcoreapp2.1\FoodFeedbackTests.pdb
