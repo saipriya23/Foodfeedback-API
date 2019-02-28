@@ -6,8 +6,6 @@ C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\bin\Debug\netcor
 C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\bin\Debug\netcoreapp2.1\FoodFeedbackTests.runtimeconfig.dev.json
 C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\bin\Debug\netcoreapp2.1\FoodFeedbackTests.dll
 C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\bin\Debug\netcoreapp2.1\FoodFeedbackTests.pdb
-C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\bin\Debug\netcoreapp2.1\Food-Feedback.dll
-C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\bin\Debug\netcoreapp2.1\Food-Feedback.pdb
 C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\obj\Debug\netcoreapp2.1\FoodFeedbackTests.csprojAssemblyReference.cache
 C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\obj\Debug\netcoreapp2.1\FoodFeedbackTests.csproj.CoreCompileInputs.cache
 C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\obj\Debug\netcoreapp2.1\FoodFeedbackTests.AssemblyInfoInputs.cache
@@ -15,3 +13,5 @@ C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\obj\Debug\netcor
 C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\obj\Debug\netcoreapp2.1\FoodFeedbackTests.csproj.CopyComplete
 C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\obj\Debug\netcoreapp2.1\FoodFeedbackTests.dll
 C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\obj\Debug\netcoreapp2.1\FoodFeedbackTests.pdb
+C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\bin\Debug\netcoreapp2.1\FoodFeedback.dll
+C:\Users\saipriyak\source\repos\Food-Feedback\FoodFeedbackTests\bin\Debug\netcoreapp2.1\FoodFeedback.pdb

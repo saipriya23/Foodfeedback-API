@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Food-Feedback", "Food-Feedback\Food-Feedback.csproj", "{8482ADC6-7CEC-475A-9C9B-8A1FC52C3734}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodFeedback", "Food-Feedback\FoodFeedback.csproj", "{8482ADC6-7CEC-475A-9C9B-8A1FC52C3734}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodFeedbackTests", "FoodFeedbackTests\FoodFeedbackTests.csproj", "{3CEF6029-0DCE-4C48-B244-860B32DFDCA4}"
 EndProject
