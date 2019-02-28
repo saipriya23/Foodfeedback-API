@@ -27,6 +27,20 @@ namespace FoodFeedbackTests
             Assert.Equal(200, ((OkObjectResult)response).StatusCode);
        
         }
-        
+       
+        [Fact]
+
+        public void TestForBadRequest()
+        {
+            var mockRegistrationService = new Mock<IRegisterService>();
+            var userDetails = new RegistrationController(mockRegistrationService.Object);
+            var test = new UserDto();
+           
+            var result = userDetails.RegistrationForm(new UserDto());
+            //Assert.Equal(401, ((OkObjectResult)result).StatusCode);
+     
+            Assert.IsType<BadRequestObjectResult>(result);
+        }
+
     }
 }

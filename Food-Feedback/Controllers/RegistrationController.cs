@@ -28,7 +28,7 @@ namespace Food_Feedback.Controllers
                 return Ok(result); // success 200
             }
 
-          return BadRequest(); // 401 bad resquest
+          return BadRequest(); // 401 bad request
         }
     }
 }
