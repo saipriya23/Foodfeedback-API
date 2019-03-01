@@ -22,13 +22,14 @@ namespace Food_Feedback.Controllers
         [HttpPost]
         public IActionResult RegistrationForm([FromBody] UserDto userDetails)
         {
-            if (ModelState.IsValid)
+
+            var result = _registrationService.AddUsers(userDetails);
+            if (result == true)
             {
-                var result = _registrationService.AddUsers(userDetails);
                 return Ok(result); // success 200
             }
+            return BadRequest(); // 401 bad request
 
-          return BadRequest(); // 401 bad request
         }
     }
 }

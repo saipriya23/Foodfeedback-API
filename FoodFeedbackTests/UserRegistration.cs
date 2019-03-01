@@ -16,7 +16,6 @@ namespace FoodFeedbackTests
         {
             //Arrange
             var mockRegistrationService = new Mock<IRegisterService>();
-
             mockRegistrationService.Setup(record => record.AddUsers(It.IsAny<UserDto>())).Returns(true);
             var userDetails = new RegistrationController(mockRegistrationService.Object);
 
@@ -33,13 +32,13 @@ namespace FoodFeedbackTests
         public void TestForBadRequest()
         {
             var mockRegistrationService = new Mock<IRegisterService>();
+            mockRegistrationService.Setup(record => record.AddUsers(It.IsAny<UserDto>())).Returns(false);
             var userDetails = new RegistrationController(mockRegistrationService.Object);
-            var test = new UserDto();
-           
-            var result = userDetails.RegistrationForm(new UserDto());
-            //Assert.Equal(401, ((OkObjectResult)result).StatusCode);
+
+            var result = userDetails.RegistrationForm(new UserDto() { }); 
+
+            Assert.Equal(400, ((BadRequestResult)result).StatusCode);
      
-            Assert.IsType<BadRequestObjectResult>(result);
         }
 
     }
