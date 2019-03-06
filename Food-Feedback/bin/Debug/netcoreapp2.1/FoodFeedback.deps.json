@@ -22,7 +22,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "Food-Feedback/1.0.0": {
+      "FoodFeedback/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.1.8",
@@ -32,10 +32,10 @@
           "Moq": "4.10.1"
         },
         "runtime": {
-          "Food-Feedback.dll": {}
+          "FoodFeedback.dll": {}
         },
         "compile": {
-          "Food-Feedback.dll": {}
+          "FoodFeedback.dll": {}
         }
       },
       "Castle.Core/4.3.1": {
@@ -3587,7 +3587,7 @@
     }
   },
   "libraries": {
-    "Food-Feedback/1.0.0": {
+    "FoodFeedback/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
