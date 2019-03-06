@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 using FoodFeedback.Models;
@@ -9,7 +10,11 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Food_Feedback.Controllers
 {
+    /// <summary>
+    /// contains the methods for user registration
+    /// </summary>
     [Route("api/Registration")]
+    [ApiController]
     public class RegistrationController : ControllerBase
     {
         private readonly IRegisterService _registrationService;
@@ -19,17 +24,29 @@ namespace Food_Feedback.Controllers
             _registrationService = registrationService;
         }
 
+        /// <summary>
+        /// validating the model and posting the userdetails 
+        /// </summary>
+        /// <param name="userDetails"></param>
+        /// <returns></returns>
         [HttpPost]
-        public IActionResult RegistrationForm([FromBody] UserDto userDetails)
+        
+        public IActionResult RegisterUser([FromBody] UserDto userDetails)
         {
-
-            var result = _registrationService.AddUsers(userDetails);
-            if (result == true)
+            if (userDetails!=null)
             {
-                return Ok(result); // success 200
+                if (ModelState.IsValid)
+                {
+                    var result = _registrationService.AddUsers(userDetails);
+                    if (result == true)
+                    {
+                        return Ok(result);
+                    }
+                    return BadRequest();
+                }
             }
-            return BadRequest(); // 400 bad request
 
+            return BadRequest();
         }
     }
 }
